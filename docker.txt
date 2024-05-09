@@ -14,7 +14,11 @@ docker container rm c_id
 docker image prune
 
 
+npm i -g @angular/cli
 
+ng new projectname
+cd projectname
+ng g c component name
 
 
 
